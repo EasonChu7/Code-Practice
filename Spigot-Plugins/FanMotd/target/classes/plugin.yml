@@ -1,0 +1,4 @@
+name: FanMotd
+version: 1.0-SNAPSHOT
+main: org.easonchu7.fanmotd.FanMotd
+api-version: 1.15
