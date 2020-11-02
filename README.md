@@ -1,5 +1,2 @@
 # Code-Practice
-
-TOI-2020
-NPSC-2019
-NPSC-2020
+Author: easonchu7
